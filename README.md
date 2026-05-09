@@ -1,4 +1,4 @@
-# YZTA 5.0 Datathon — Bilişsel Performans Skoru Tahmini
+# YZTA 5.0 Datathon - Bilişsel Performans Skoru Tahmini
 
 Bu repo, YZTA 5.0 Datathon kapsamında `bilissel_performans_skoru` hedef değişkenini tahmin etmek için hazırlanmış modelleme çalışmasını içerir.
 
@@ -37,9 +37,3 @@ sample_submission.csv
 2. Notebook'u açın.
 3. Hücreleri sırayla çalıştırın.
 4. Oluşan `catboost_submission.csv` dosyasını Kaggle'a yükleyin.
-
-## Notlar
-
-- Dataset dosyaları GitHub'a yüklenmemelidir.
-- Submission hakkı sınırlı olduğu için yalnızca anlamlı model denemeleri Kaggle'a gönderilmelidir.
-- Public leaderboard skoru nihai sonuç değildir; private leaderboard ayrımı dikkate alınmalıdır.
