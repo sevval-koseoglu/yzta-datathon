@@ -20,3 +20,6 @@ __pycache__/
 # Outputs
 outputs/
 submissions/
+
+# Venvs
+venv/
