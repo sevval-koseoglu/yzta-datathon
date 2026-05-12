@@ -23,7 +23,7 @@ README.md
 
 ## Gerekli veri dosyaları
 
-Veri dosyaları repoya eklenmemiştir. Notebook'u çalıştırmadan önce aşağıdaki dosyaları lokal çalışma dizinine veya Kaggle input alanına ekleyin:
+Veri dosyaları repoya eklenmemiştir.
 
 ```text
 train.csv
