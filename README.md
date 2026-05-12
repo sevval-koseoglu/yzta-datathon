@@ -30,10 +30,3 @@ train.csv
 test_x.csv
 sample_submission.csv
 ```
-
-## Çalıştırma
-
-1. Gerekli kütüphaneleri kurun.
-2. Notebook'u açın.
-3. Hücreleri sırayla çalıştırın.
-4. Oluşan `catboost_submission.csv` dosyasını Kaggle'a yükleyin.
